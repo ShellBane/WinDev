@@ -1,0 +1,10 @@
+*.iso
+*.exe
+
+#Packer output
+virtualbox_windows-10.box
+
+### Folders
+output-virtualbox-iso/
+packer_cache/
+.vagrant
